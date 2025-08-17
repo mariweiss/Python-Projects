@@ -1,1 +1,1 @@
-Python Projects made by me for study porpouses. 
+Python Project made for study porpouses. 
